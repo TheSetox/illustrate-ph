@@ -1,4 +1,4 @@
-rootProject.name = "illustrate-ph"
+rootProject.name = "illustratePH"
 enableFeaturePreview("TYPESAFE_PROJECT_ACCESSORS")
 
 pluginManagement {
